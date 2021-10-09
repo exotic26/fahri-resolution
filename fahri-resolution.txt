@@ -3,3 +3,4 @@ fahri resolution
 -mastering javascript
 -mastering python
 -learn cybersec
+-learn machine learning
