@@ -1,6 +1,6 @@
 fahri resolution
--be able to read javascritp code
 -mastering javascript
 -mastering python
 -learn cybersec
 -learn machine learning
+-learn AI
